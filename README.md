@@ -18,7 +18,8 @@ style="padding-right:10px;" />
 style="padding-right:10px;" />  
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" 
 style="padding-right:10px;" />
-
+</br>
+</br>
 <img align="left" alt="Chego byat?" src="https://thumbs.gfycat.com/HollowAcademicBream-max-1mb.gif"
 style="padding-right:10px;"  />
           
