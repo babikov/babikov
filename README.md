@@ -10,9 +10,8 @@
 <img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Haskell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Zig" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Rust" width="26px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="padding-right:10px;" />
+          
           
 </br>
-</br>
-<img align="left" alt="Chego byat?" src="https://thumbs.gfycat.com/HollowAcademicBream-max-1mb.gif"
-style="padding-right:10px;"  />
-          
+</br>         
